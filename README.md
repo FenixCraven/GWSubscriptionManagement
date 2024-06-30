@@ -1,2 +1,2 @@
-# SoftwareDevAssignmentMaster
-A repository for the second assignment in Intro to Software Development
+# GWSubscriptionManagement
+A repository for the Development of the Garden Waste Subscription Management tool
